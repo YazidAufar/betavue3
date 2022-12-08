@@ -1,4 +1,4 @@
-# betavue3
+# vue3beta
 
 ## Project setup
 ```
